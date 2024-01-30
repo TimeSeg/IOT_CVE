@@ -10,6 +10,11 @@ https://www.tenda.com.cn/download/detail-2908.html
 
 The function "setSchedWifi" contains a stack-based buffer overflow vulnerability. In the function, it reads in a user-provided parameter, and the variable is passed to the function without any length check, which may lead to overflow of the stack-based buffer. As a result, by requesting the page, an attacker can easily execute a denial of service attack or remote code execution with carefully crafted overflow data.
 
+![image.png](assets/image.png)
+
+![image.png](assets/image2.png)
+
+
 # POC
 
 Due to legal and policy reasons, we are unable to provide the exploit for this vulnerability at this time.
