@@ -16,11 +16,10 @@ The purpose of the "decodePwd" function is to copy data from a source while filt
 
 ![170334162949064f2b14f2d7a4b26aad3539958b15ee4.png](assets/images.png)
 
-
 # POC
 
 Due to legal and policy reasons, we are unable to provide the exploit for this vulnerability at this time.
 
 # CVE
 
-CVE-2024-24543
+CVE-2024-25541
